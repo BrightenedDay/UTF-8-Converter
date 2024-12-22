@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTF8 Converter", "UTF8 Converter\UTF8 Converter.csproj", "{44419B2D-38AD-4DA9-9762-6C73E5A53BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44419B2D-38AD-4DA9-9762-6C73E5A53BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44419B2D-38AD-4DA9-9762-6C73E5A53BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44419B2D-38AD-4DA9-9762-6C73E5A53BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44419B2D-38AD-4DA9-9762-6C73E5A53BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F4A29D1-90BA-43A9-8474-E732A40ED73B}
+	EndGlobalSection
+EndGlobal
